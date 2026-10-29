@@ -1,0 +1,84 @@
+[
+  {
+    "unitNumber": "A-101",
+    "monthlyRent": 5000.00,
+    "dueDay": 5,
+    "balance": 2000.00,
+    "openingBillingMonth": "2026-10",
+    "tenant": {
+      "tenantId": "T-001",
+      "firstName": "Maria",
+      "middleName": "Dela",
+      "lastName": "Santos",
+      "contactNumber": "09171234567"
+    }
+  },
+  {
+    "unitNumber": "A-102",
+    "monthlyRent": 4500.00,
+    "dueDay": 10,
+    "balance": 0.00,
+    "tenant": {
+      "tenantId": "T-002",
+      "firstName": "Juan",
+      "middleName": "",
+      "lastName": "Dela Cruz",
+      "contactNumber": "09209876543"
+    }
+  },
+  {
+    "unitNumber": "A-103",
+    "monthlyRent": 5000.00,
+    "dueDay": 5,
+    "balance": 5000.00,
+    "openingBillingMonth": "2026-10",
+    "tenant": {
+      "tenantId": "T-003",
+      "firstName": "Liza",
+      "middleName": "",
+      "lastName": "Fernandez",
+      "contactNumber": "09175551212"
+    }
+  },
+  {
+    "unitNumber": "B-201",
+    "monthlyRent": 6000.00,
+    "dueDay": 15,
+    "balance": 0.00,
+    "tenant": null
+  },
+  {
+    "unitNumber": "B-202",
+    "monthlyRent": 6000.00,
+    "dueDay": 15,
+    "balance": 3000.00,
+    "openingBillingMonth": "2026-10",
+    "tenant": {
+      "tenantId": "T-004",
+      "firstName": "Carlos",
+      "middleName": "",
+      "lastName": "Reyes",
+      "contactNumber": "09228887766"
+    }
+  },
+  {
+    "unitNumber": "B-203",
+    "monthlyRent": 4800.00,
+    "dueDay": 1,
+    "balance": 0.00,
+    "tenant": {
+      "tenantId": "T-005",
+      "firstName": "Ana",
+      "middleName": "",
+      "lastName": "Bautista",
+      "contactNumber": "09173332211"
+    }
+  },
+  {
+    "unitNumber": "C-301",
+    "monthlyRent": 5500.00,
+    "dueDay": 20,
+    "balance": 0.00,
+    "tenant": null
+  }
+]
